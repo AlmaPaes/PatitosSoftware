@@ -6,3 +6,7 @@ Integrantes:
 -Mendoza Castillo María Fernanda
 -Páes Alcalá Alma Rosa
 -Pérez Cruz Clara Nashely
+
+Modo de compilación:
+-Compilamos con: mvn clean install
+-Ejecutamos con: mvn tomcat7:run

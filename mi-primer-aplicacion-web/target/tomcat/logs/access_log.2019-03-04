@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:20:55:16 -0600] "GET /mi-primer-aplicacion-web/ HTTP/1.1" 200 733 http-bio-8080-exec-1 2317
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:20:55:16 -0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
